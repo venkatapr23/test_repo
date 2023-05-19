@@ -1,1 +1,3 @@
 test for devops file in local repo
+echo "test for repo"
+<h1> repo </h>
